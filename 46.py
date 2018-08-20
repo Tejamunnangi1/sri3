@@ -1,3 +1,3 @@
-n=input("")
-n=int(n)
-print(n+1)
+k=input("")
+k=int(k)
+print(k+1)
